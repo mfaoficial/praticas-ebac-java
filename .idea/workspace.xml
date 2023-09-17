@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7eaf36d6-6e95-4160-b9ea-eba4e74c3457" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod5/PrimeiroProjeto/PrimeiraClasse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod5/PrimeiroProjeto/PrimeiraClasse.java" beforeDir="false" afterPath="$PROJECT_DIR$/mod5/PrimeiroProjeto/PrimeiraClasse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +24,10 @@
 }</component>
   <component name="ProjectId" id="2VSlkNpBIb86iPM2qsBe1W3CBb6" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -41,6 +42,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -59,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694837506649</updated>
       <workItem from="1694837509653" duration="5000" />
-      <workItem from="1694972761943" duration="306000" />
+      <workItem from="1694972761943" duration="489000" />
     </task>
     <servers />
   </component>
