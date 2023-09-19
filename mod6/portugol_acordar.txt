@@ -1,0 +1,24 @@
+inicio
+    abrir_os_olhos()
+
+    espreguicar()
+
+    se celular_estiver_despertando() entao
+        levantar_e_desligar_despertador()
+    senao
+        levantar_e_desativar_despertador()
+    fim se
+
+    ir_ao_banheiro()
+
+    se sentir_vontade_de_urinar() entao
+        urinar_na_privada()
+    senao
+        lavar_rosto_na_pia()
+    fim se
+
+    ir_para_cadeira_do_computador()
+
+    fazer_login_no_windows_e_trabalhar()
+
+fim
